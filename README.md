@@ -1,0 +1,2 @@
+# CloudGPU
+CoreOS setup
